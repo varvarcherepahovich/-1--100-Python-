@@ -14,7 +14,7 @@
 * **Build Tool:** PyInstaller (для конвертации в .exe)
 
 ## 📦 Как запустить
-1. Перейдите в раздел [Releases](ссылка_на_твой_релиз_если_есть).
+1. Перейдите в раздел [Releases](https://github.com/varvarcherepahovich/-1--100-Python-/releases/tag/python).
 2. Скачайте архив с файлом `GuessTheNumber.exe`.
 3. Запустите файл и попробуйте угадать число за минимальное количество попыток!
 
